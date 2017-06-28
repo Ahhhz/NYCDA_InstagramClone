@@ -22,6 +22,7 @@
 		-- cd to folder
 		-- npm install
 		-- npm start
+		-- server port 1133
 
 3. Welcome to instaOZsome! -> Open index.html file to start on login page
 
